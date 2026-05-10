@@ -1,4 +1,4 @@
-﻿{
+var bib = {
   "arleo2023visual": {
     "title": "Visual Exploration of Financial Data with Incremental Domain Knowledge",
     "author": "Arleo, Alessio and Tsigkanos, Christos and Leite, Ricardo Augusto and Dustdar, Schahram and Miksch, Silvia and Sorger, Johannes",
@@ -174,4 +174,4 @@
     "abstract": "This paper applies a DQN agent to automated trading, treating buy, sell, and hold decisions as a Markov Decision Process. The agent is tested on three equity datasets with realistic transaction costs included. It achieves a better Sharpe ratio than buy-and-hold and moving average crossover baselines on two of the three datasets.",
     "url": "https://doi.org/10.1016/j.eswa.2021.114632"
   }
-}
+};
